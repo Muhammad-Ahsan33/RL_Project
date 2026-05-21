@@ -1,0 +1,71 @@
+{
+  "normal": {
+    "Fixed Schedule": {
+      "total_reward": -431.6,
+      "total_water_L": 14400.0,
+      "final_yield": 80.0,
+      "avg_moisture": 0.094,
+      "min_moisture": 0.0
+    },
+    "Threshold": {
+      "total_reward": 221.78,
+      "total_water_L": 12600.0,
+      "final_yield": 99.6,
+      "avg_moisture": 0.278,
+      "min_moisture": 0.208
+    },
+    "DQN (RL)": {
+      "total_reward": 393.05,
+      "total_water_L": 16600.0,
+      "final_yield": 99.6,
+      "avg_moisture": 0.384,
+      "min_moisture": 0.208
+    }
+  },
+  "drought": {
+    "Fixed Schedule": {
+      "total_reward": -479.44,
+      "total_water_L": 14400.0,
+      "final_yield": 79.2,
+      "avg_moisture": 0.066,
+      "min_moisture": 0.0
+    },
+    "Threshold": {
+      "total_reward": 214.98,
+      "total_water_L": 16200.0,
+      "final_yield": 99.3,
+      "avg_moisture": 0.273,
+      "min_moisture": 0.202
+    },
+    "DQN (RL)": {
+      "total_reward": 371.65,
+      "total_water_L": 18000.0,
+      "final_yield": 99.3,
+      "avg_moisture": 0.368,
+      "min_moisture": 0.202
+    }
+  },
+  "wet": {
+    "Fixed Schedule": {
+      "total_reward": -72.32,
+      "total_water_L": 14400.0,
+      "final_yield": 85.7,
+      "avg_moisture": 0.165,
+      "min_moisture": 0.057
+    },
+    "Threshold": {
+      "total_reward": 224.72,
+      "total_water_L": 10500.0,
+      "final_yield": 99.7,
+      "avg_moisture": 0.282,
+      "min_moisture": 0.211
+    },
+    "DQN (RL)": {
+      "total_reward": 403.2,
+      "total_water_L": 16400.0,
+      "final_yield": 99.7,
+      "avg_moisture": 0.391,
+      "min_moisture": 0.211
+    }
+  }
+}
