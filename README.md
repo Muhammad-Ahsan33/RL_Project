@@ -1,7 +1,4 @@
 # Smart Irrigation System using Reinforcement Learning
-### CT-469 Reinforcement Learning — Course Project (P09)
-**Spring 2026 | Final Year AI Specialisation**
-
 ---
 
 ## Project Overview
