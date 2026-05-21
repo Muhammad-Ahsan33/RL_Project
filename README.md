@@ -23,6 +23,7 @@ This project implements a **Deep Q-Network (DQN) agent** that learns optimal irr
 ---
 
 ## Project Structure
+```
 RL_Project/
 ├── backend/
 │   ├── environment/
@@ -41,7 +42,8 @@ RL_Project/
 │   │   └── training_log.csv
 │   └── main.py                  # FastAPI application
 └── frontend/
-└── app.py                   # Streamlit dashboard
+    └── app.py                   # Streamlit dashboard
+```
 
 ---
 
